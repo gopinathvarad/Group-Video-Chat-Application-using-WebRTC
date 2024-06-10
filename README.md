@@ -18,7 +18,8 @@ React.js, enabling seamless user interactions. <br>
 
 ● Tools used - React.js, JavaScript, WebRTC, Simple-peer, SocketIO, Node.js, Express.js.
 
-Screenshots of the project uploaded below 
+
+# Screenshots of the project uploaded below 
 
 
 ![Screenshot 2024-06-10 at 10 42 16 PM](https://github.com/gopinathvarad/Group-Video-Chat-Application-using-WebRTC/assets/65111584/94c621ab-b5d0-4ff4-a4b2-c9ace27ab7cf)
