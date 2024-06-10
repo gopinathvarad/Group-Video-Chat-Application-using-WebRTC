@@ -11,9 +11,11 @@ The server or backend code uses Node.js. Follow the steps below to get the serve
 4. `node server.js`
 
 # Project Description 
+
 ● Developed a real-time communication application supporting group calls using WebRTC with a Mesh architecture. Utilised
 SocketIO for signalling to establish and manage peer connections. Implemented a dynamic and responsive user interface with
 React.js, enabling seamless user interactions. <br>
+
 ● Tools used - React.js, JavaScript, WebRTC, Simple-peer, SocketIO, Node.js, Express.js.
 
 Screenshots of the project uploaded below 
